@@ -13,7 +13,6 @@
    - 실행
      - Windows: `source venv/Scripts/activate`
      - Mac: `source venv/bin/activate`
-3. `pip install -r requirements.txt`
 
 
 ### 작업 전 체크사항
