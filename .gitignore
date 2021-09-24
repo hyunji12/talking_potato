@@ -116,6 +116,7 @@ fabric.properties
 [Ss]cripts
 pyvenv.cfg
 .venv
+.myvenv
 pip-selfcheck.json
 
 ### VisualStudioCode ###
